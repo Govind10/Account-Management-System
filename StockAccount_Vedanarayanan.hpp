@@ -36,7 +36,7 @@ public:
     void bSort(Results);
     void buy_stock(Results);
     void sell_stock(Results);
-	void plot_graph();
+    void plot_graph();
 };
 
 #endif /* StockAccount_Vedanarayanan_hpp */
